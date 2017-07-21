@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="padding_small"> 1dp </dimen>
+    <dimen name="activity_horizontal_margin">3dp </dimen>
+</resources>
